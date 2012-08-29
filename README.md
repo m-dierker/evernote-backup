@@ -1,4 +1,4 @@
 evernote-backup
 ===============
 
-Backs up evernote notes to dropbox
+Backs up Evernote notes to Dropbox
